@@ -37,5 +37,11 @@ I'm a Software Developer with experience in full-stack development, cloud comput
   <img src="https://github-readme-stats.vercel.app/api?username=ross1116&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<!--
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ross1116&layout=normal&theme=radical" alt="Top Languages" />
+ </p>
+ -->
+
 ---
 ⭐ **Check out my repositories and feel free to reach out!** 🚀
