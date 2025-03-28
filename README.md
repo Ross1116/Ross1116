@@ -33,15 +33,13 @@ I'm a Software Developer with experience in full-stack development, cloud comput
 </p>
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ross1116&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ross1116&layout=compact&theme=radical" alt="Top Languages" width="41%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ross1116&show_icons=true&theme=radical" alt="GitHub Stats" width="54%" />
+</div>
 
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ross1116&layout=normal&theme=radical" alt="Top Languages" />
- </p>
- -->
+
 
 ---
 ⭐ **Check out my repositories and feel free to reach out!** 🚀
