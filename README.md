@@ -1,8 +1,9 @@
 # Heya there 👋, I'm Roshan Ravikumar
 
 ## 🚀 About Me
-I'm a Software Developer with experience in full-stack development, cloud computing, and automation. I enjoy working on projects that solve real problems and help improve efficiency. I’m always looking to learn and grow, and I appreciate opportunities to collaborate and contribute to meaningful work.
-
+I'm a backend focused engineer with keen interest in infrastructure and dev tooling. I love using Go and working on distributed systems and architecture. 
+I use neovim btw. 
+I use arch btw.
 
 ## 📫 Connect with Me
 <p align="left">
