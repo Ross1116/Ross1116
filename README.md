@@ -1,9 +1,9 @@
 # Heya there 👋, I'm Roshan Ravikumar
 
 ## 🚀 About Me
-I'm a backend focused engineer with keen interest in infrastructure and dev tooling. I love using Go and working on distributed systems and architecture. 
-I use neovim btw. 
-I use arch btw.
+I'm a backend-focused engineer with a strong interest in infrastructure, developer tooling, and distributed systems. I've lately been enjoying writing Go and thinking through system architecture.
+<br>I use Neovim btw.
+<br>I use Arch btw.
 
 ## 📫 Connect with Me
 <p align="left">
