@@ -1,50 +1,39 @@
-# Heya there 👋, I'm Roshan Ravikumar
+# Hey 👋 I'm Roshan Ravikumar
 
-## 🚀 About Me
-I'm a backend-focused engineer with a strong interest in infrastructure, developer tooling, and distributed systems. I've lately been enjoying writing Go and thinking through system architecture.
-<br>I use Neovim btw.
-<br>I use Arch btw.
+I’m a backend-focused engineer (and founding engineer at Sitespace) who likes building real systems that go from idea → production.
 
-## 📫 Connect with Me
+## 🚧 Current Work
+Building and operating Sitespace across backend and web — architecture, APIs, product workflows, and production reliability.
+
+## 🧠 What I Like Working On
+- Backend engineering and API design
+- Distributed systems and reliability
+- Secure-by-default production systems
+- Developer tooling and clean architecture
+- Full-stack execution when product needs it
+
+## 🛠️ Tech I Use
+**Languages:** Go, Python, TypeScript/JavaScript, SQL, Bash  
+**Backend:** FastAPI, Node.js, REST APIs, RabbitMQ, Redis  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Data:** PostgreSQL, MongoDB, DynamoDB  
+**Cloud/DevOps:** AWS, Docker, Kubernetes, GitHub Actions, Vercel, Railway  
+**Security/Observability:** JWT, CSRF, OAuth, Sentry, PostHog
+
+## 📌 Featured Repositories
+- [Sitespace](https://github.com/ross1116/sitespace-app)
+- [SwarmCDN](https://github.com/Ross1116/swarmcdn)
+- [Distributed Task Queue](https://github.com/Ross1116/task-queue)
+- [PokeBattleCLI](https://github.com/Ross1116/pokebattlecli)
+
+## 📫 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/ross-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ross.r1116@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ross-r/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:roshrwork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-## 🛠️ Tech Stack
-### 💻 Languages & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-</p>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ross1116&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ross1116&layout=compact&theme=tokyonight" alt="Top Languages" width="41%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ross1116&theme=tokyonight" alt="GitHub Streak""/>
-</div>
-
-
-
----
-⭐ **Check out my repositories and feel free to reach out!** 🚀
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ross1116" alt="Profile Views" />
-  <p>Thanks for visiting my profile! 🙏</p>
-</div>
+<!-- <sub>Yes, I use Neovim. Yes, I use Arch. Yes, I still write documentation.</sub> -->
