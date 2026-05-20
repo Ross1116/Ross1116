@@ -23,7 +23,7 @@ Building and operating Sitespace across backend and web — architecture, APIs, 
 ## 📌 Featured Repositories
 - [Sitespace](https://github.com/ross1116/sitespace-app)
 - [SwarmCDN](https://github.com/Ross1116/swarmcdn)
-- [Distributed Task Queue](https://github.com/Ross1116/task-queue)
+- [CueMate - DJ Recommendation Platform](https://github.com/Ross1116/cuemate-engine)
 - [PokeBattleCLI](https://github.com/Ross1116/pokebattlecli)
 
 ## 📫 Connect
