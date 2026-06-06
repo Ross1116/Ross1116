@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Roshan Ravikumar backend systems banner</title>
+  <desc id="desc">A calm professional banner with Roshan Ravikumar's name, backend engineer title, and an animated backend topology map.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1117"/>
+      <stop offset="56%" stop-color="#10151b"/>
+      <stop offset="100%" stop-color="#151318"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8fb996"/>
+      <stop offset="52%" stop-color="#c8b27a"/>
+      <stop offset="100%" stop-color="#b58a9b"/>
+    </linearGradient>
+    <radialGradient id="warmGlow" cx="82%" cy="28%" r="72%">
+      <stop offset="0%" stop-color="#c8b27a" stop-opacity=".14"/>
+      <stop offset="46%" stop-color="#8fb996" stop-opacity=".055"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .display { font-family: "Segoe UI Variable Display", "Aptos Display", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Consolas, monospace; }
+      .title { fill: #f4efe7; }
+      .name { fill: #f3d5c6; }
+      .hello { fill: #c8b27a; }
+      .softText { fill: #b7b0a6; }
+      .dimText { fill: #746f68; }
+      .lane { stroke-dasharray: 3 17; animation: lane 18s linear infinite; }
+      .laneSlow { stroke-dasharray: 2 20; animation: lane 24s linear infinite reverse; }
+      .breathe { animation: breathe 6.5s ease-in-out infinite; }
+      .pulse { animation: pulse 5.4s ease-in-out infinite; }
+      .cursor { animation: cursor 1.35s steps(2, start) infinite; }
+      @keyframes lane { to { stroke-dashoffset: -180; } }
+      @keyframes breathe {
+        0%, 100% { opacity: .42; }
+        50% { opacity: .86; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .28; }
+        50% { opacity: .72; }
+      }
+      @keyframes cursor {
+        0%, 48% { opacity: .9; }
+        49%, 100% { opacity: .18; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#warmGlow)"/>
+  <path d="M56 246 H1144" stroke="url(#accent)" stroke-width="1.4" opacity=".48" stroke-linecap="round"/>
+
+  <g transform="translate(76 104)">
+    <text class="sans hello" x="2" y="-48" font-size="13" font-weight="700">Good to see you, I'm</text>
+    <text class="display name" x="0" y="8" font-size="46" font-weight="780">Roshan Ravikumar</text>
+    <path d="M2 24 H186" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".78"/>
+    <text class="mono softText" x="2" y="52" font-size="15">backend-focused engineer / founding engineer at Sitespace</text>
+
+    <g transform="translate(2 98)">
+      <text class="mono dimText" x="0" y="0" font-size="13">$</text>
+      <text class="mono softText" x="22" y="0" font-size="13">building reliable APIs, workflows, and backend systems</text>
+      <rect class="cursor" x="438" y="-12" width="8" height="16" rx="1.5" fill="#c8b27a"/>
+    </g>
+  </g>
+
+  <g transform="translate(668 31)" opacity=".94">
+    <path id="laneA" d="M64 38 H420" fill="none"/>
+    <path id="laneB" d="M64 92 H420" fill="none"/>
+    <path id="laneC" d="M64 146 H420" fill="none"/>
+    <path id="laneD" d="M64 200 H420" fill="none"/>
+
+    <path d="M64 38 V200" fill="none" stroke="#2d363f" stroke-width="1.2" opacity=".72"/>
+    <path d="M420 38 V200" fill="none" stroke="#2d363f" stroke-width="1.2" opacity=".42"/>
+
+    <g class="breathe">
+      <rect x="38" y="18" width="408" height="40" rx="20" fill="#10171e" stroke="#2d363f"/>
+      <path class="lane" d="M82 38 H394" fill="none" stroke="#8fb996" stroke-width="1.35" stroke-linecap="round" opacity=".72"/>
+      <circle cx="64" cy="38" r="4" fill="#8fb996"/>
+      <circle cx="420" cy="38" r="3" fill="#8b8580"/>
+    </g>
+
+    <g class="breathe" style="animation-delay:-1.5s">
+      <rect x="38" y="72" width="408" height="40" rx="20" fill="#10171e" stroke="#2d363f"/>
+      <path class="laneSlow" d="M82 92 H394" fill="none" stroke="#c8b27a" stroke-width="1.35" stroke-linecap="round" opacity=".7"/>
+      <circle cx="64" cy="92" r="4" fill="#c8b27a"/>
+      <circle cx="420" cy="92" r="3" fill="#8b8580"/>
+    </g>
+
+    <g class="breathe" style="animation-delay:-3s">
+      <rect x="38" y="126" width="408" height="40" rx="20" fill="#10171e" stroke="#2d363f"/>
+      <path class="lane" style="animation-delay:-6s" d="M82 146 H394" fill="none" stroke="#b58a9b" stroke-width="1.35" stroke-linecap="round" opacity=".68"/>
+      <circle cx="64" cy="146" r="4" fill="#b58a9b"/>
+      <circle cx="420" cy="146" r="3" fill="#8b8580"/>
+    </g>
+
+    <g class="breathe" style="animation-delay:-4.5s">
+      <rect x="38" y="180" width="408" height="40" rx="20" fill="#10171e" stroke="#2d363f"/>
+      <path class="laneSlow" style="animation-delay:-10s" d="M82 200 H394" fill="none" stroke="#a3a380" stroke-width="1.35" stroke-linecap="round" opacity=".7"/>
+      <circle cx="64" cy="200" r="4" fill="#a3a380"/>
+      <circle cx="420" cy="200" r="3" fill="#8b8580"/>
+    </g>
+
+    <circle r="3.4" fill="#8fb996" filter="url(#soft)">
+      <animateMotion dur="7.5s" repeatCount="indefinite">
+        <mpath href="#laneA"/>
+      </animateMotion>
+    </circle>
+    <circle r="3.4" fill="#c8b27a" filter="url(#soft)">
+      <animateMotion dur="9s" repeatCount="indefinite" begin="-2s">
+        <mpath href="#laneB"/>
+      </animateMotion>
+    </circle>
+    <circle r="3.4" fill="#b58a9b" filter="url(#soft)">
+      <animateMotion dur="10.5s" repeatCount="indefinite" begin="-5s">
+        <mpath href="#laneC"/>
+      </animateMotion>
+    </circle>
+  </g>
+</svg>

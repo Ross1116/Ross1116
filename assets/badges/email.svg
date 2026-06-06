@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="214" height="54" viewBox="0 0 214 54" role="img" aria-labelledby="title desc">
+  <title id="title">Email contact badge</title>
+  <desc id="desc">A matte rounded badge linking to roshrwork@gmail.com.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c8b27a"/>
+      <stop offset="100%" stop-color="#b58a9b"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: "JetBrains Mono", "Cascadia Code", Consolas, monospace; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="212" height="52" rx="26" fill="#0e141a" stroke="url(#edge)" stroke-width="1.4"/>
+  <rect x="7" y="7" width="200" height="40" rx="20" fill="#111820" opacity=".92"/>
+  <circle cx="31" cy="27" r="15" fill="#c8b27a"/>
+  <circle cx="31" cy="27" r="10.8" fill="#ead9a6" opacity=".18"/>
+  <g transform="translate(19.2 15.1)" fill="none" stroke="#0e141a" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3.2 5.4v11.2c0 1 .8 1.8 1.8 1.8h13.6c1 0 1.8-.8 1.8-1.8V5.4" stroke-width="1.8"/>
+    <path d="M3.6 5.7 11.8 12l8.2-6.3" stroke-width="2"/>
+    <path d="m4.2 17.4 5-4.9M19.4 17.4l-5-4.9" stroke-width="1.35" opacity=".68"/>
+  </g>
+  <text class="sans" x="58" y="23" font-size="14" font-weight="760" fill="#f4efe7">Email</text>
+  <text class="mono" x="58" y="38" font-size="11" fill="#a9a198">roshrwork</text>
+  <path d="M181 21l6 6-6 6" fill="none" stroke="#c8b27a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
